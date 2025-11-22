@@ -1,14 +1,5 @@
-﻿price,ram_gb,total_pixels,cpu_base_ghz,os,display_type,storage_gb,refresh_hz,gpu_brand,vram_gb,brand,form_factor,storage_type,charger_watts,owner,,,,,,,,,,,,
-903.99,16,2073600,2.6,Windows,OLED,954,60,Intel,8,ASUS,Mainstream,NVMe,65,Johanna,,,,,,,,,,,,
-2126.83,32,8294400,2.2,Windows,OLED,477,120,Intel,16,Samsung,Mainstream,SSD,39,Kalista,,,,,,,,,,,,
-,,,,,,,,,,,,,,Katelyn,,,,,,,,,,,,
-1300,16,2304000,1.4,Windows,LED,477,60,Intel,8,HP,Mainstream,HDD,65,Elda,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
+price,ram_gb,total_pixels,cpu_base_ghz,os,display_type,storage_gb,refresh_hz,gpu_brand,vram_gb,brand,form_factor,storage_type,charger_watts,owner
+903.99,16,2073600,2.6,Windows,OLED,954,60,Intel,8,ASUS,Mainstream,NVMe,65,Johanna
+2126.83,32,8294400,2.2,Windows,OLED,477,120,Intel,16,Samsung,Mainstream,SSD,39,Kalista
+800,16,2073600,2.3,Windows,LCD,512,60,AMD,2,Acer,2  in 1,SSD,45,Katelyn
+1300,16,2304000,1.4,Windows,LED,477,60,Intel,8,HP,Mainstream,HDD,65,Elda
